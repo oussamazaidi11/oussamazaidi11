@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack developer && Cloud Engineering Student 
 ----------------------------------
 
-Motivated Information Systems Development student at ISET Kef, focused on building practical skills through academic work and hands-on projects. I’m seeking opportunities to apply my knowledge, contribute to real-world solutions, and grow professionally.
+Motivated Cloud Engineering Student student at Iteam university, focused on building practical skills through academic work and hands-on projects. I’m seeking opportunities to apply my knowledge, contribute to real-world solutions, and grow professionally.
 
 *   🌍  I'm based in Tunsia
 *   ✉️  You can contact me at [oussamazaidi.dev@gmail.com](mailto:oussamazaidi.dev@gmail.com)
