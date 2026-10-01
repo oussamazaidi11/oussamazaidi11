@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Oussema
 ======================================================================================================================================
 
-Full Stack developer && IT student
+Full Stack developer && Cloud Engineering Student 
 ----------------------------------
 
 Motivated Information Systems Development student at ISET Kef, focused on building practical skills through academic work and hands-on projects. I’m seeking opportunities to apply my knowledge, contribute to real-world solutions, and grow professionally.
